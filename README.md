@@ -15,10 +15,6 @@ Este é um projeto de jogo Ping Pong desenvolvido em JavaScript utilizando a bib
 - Sistema de pontuação: O jogo mantém a pontuação de ambos os jogadores e atualiza-a conforme a bola ultrapassa a raquete.
 - Reinício do jogo: Quando um jogador alcança uma pontuação máxima definida, o jogo reinicia e a pontuação é zerada.
 
-## Screenshots
-
-Adicione algumas screenshots do jogo aqui.
-
 ## Como Executar
 
 1. Clone o repositório para o seu ambiente local.
